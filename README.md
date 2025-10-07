@@ -13,11 +13,11 @@
 O enunciado original do desafio pode ser encontrado aqui:
 [**Desafio de Cálculo de CDB (PDF)**](./Pdf/DesafioCDB.pdf)
 
-## ✨ O back end do projeto se encontra 
 
-```
-https://github.com/marcelogmoura/DesafioCDB_back
-```
+## ✨ O backend do projeto se encontra 
+
+[https://github.com/marcelogmoura/DesafioCDB_back](https://github.com/marcelogmoura/DesafioCDB_back)
+
 
 ---
 
@@ -26,7 +26,6 @@ https://github.com/marcelogmoura/DesafioCDB_back
 Este projeto implementa uma solução completa para o cálculo do **Certificado de Depósito Bancário (CDB)**, seguindo os princípios **SOLID**, com alta cobertura de **Testes Unitários** (na camada de negócio) e **Containerização** completa com **Docker Compose**.
 
 A solução é dividida em duas partes: uma Web API em .NET para a lógica de cálculo e um Frontend em Angular para a interface de usuário.
-
 
 
 ---
@@ -127,7 +126,7 @@ A solução utiliza **Docker Compose** para orquestrar a Web API (.NET Core) e o
 
 A tela abaixo demonstra a interface simples, desenvolvida em Angular, que recebe o valor inicial e o prazo, e exibe os resultados Bruto e Líquido calculados pela Web API.
 
-![Demonstração do Cálculo de CDB](https://i.ibb.co/WWwgp1wy/Screenshot-9.jpg)
+![Demonstração do Cálculo de CDB]([https://i.ibb.co/WWwgp1wy/Screenshot-9.jpg](https://i.postimg.cc/yYHmPW5y/Screenshot-9.jpg))
 
 ---
 
