@@ -122,11 +122,13 @@ A solução utiliza **Docker Compose** para orquestrar a Web API (.NET Core) e o
 ---
 ---
 
+---
+
 ## 🖼️ Demonstração Visual (Frontend Angular)
 
 A tela abaixo demonstra a interface simples, desenvolvida em Angular, que recebe o valor inicial e o prazo, e exibe os resultados Bruto e Líquido calculados pela Web API.
 
-![Demonstração do Cálculo de CDB]([https://i.ibb.co/WWwgp1wy/Screenshot-9.jpg](https://i.postimg.cc/yYHmPW5y/Screenshot-9.jpg))
+![Demonstração do Cálculo de CDB](https://i.ibb.co/WWwgp1wy/Screenshot-9.jpg)
 
 ---
 
